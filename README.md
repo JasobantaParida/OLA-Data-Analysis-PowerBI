@@ -99,10 +99,10 @@ Supported data-driven decision-making for operational improvements.
 📸 6. Dashboard Preview
 
 ### Overall Dashboard
-[![Overall Dashboard](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/01_Overall_Dashboard.png.png)
+![Overall Dashboard](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/01_Overall_Dashboard.png.png)
 
 ### Vehicle Type Analysis
-![Vehicle Type Analysis](Screenshots/02_Vehicle_Type_Analysis.png)
+![Vehicle Type Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/02_Booking_Analysis.png.png)
 
 ### Revenue Analysis
 ![Revenue Analysis](Screenshots/03_Revenue_Analysis.png)

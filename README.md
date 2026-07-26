@@ -105,7 +105,7 @@ Supported data-driven decision-making for operational improvements.
 ![Vehicle Type Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/02_Booking_Analysis.png.png)
 
 ### Revenue Analysis
-![Revenue Analysis](Screenshots/03_Revenue_Analysis.png)
+![Revenue Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/03_Revenue_Dashboard.png.png)
 
 ### Cancellation Analysis
 ![Cancellation Analysis](Screenshots/04_Cancellation_Analysis.png)

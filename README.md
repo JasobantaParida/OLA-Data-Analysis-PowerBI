@@ -158,16 +158,16 @@ The dashboard enables stakeholders to:
 ## 📸 6. Dashboard Preview
 
 ### Overall Dashboard
-![Overall Dashboard](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/01_Overall_Dashboard.png.png)
+![Overall Dashboard](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/01_Overall_Dashboard.png)
 
 ### Vehicle Type Analysis
-![Vehicle Type Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/02_Booking_Analysis.png.png)
+![Vehicle Type Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/02_Booking_Analysis.png)
 
 ### Revenue Analysis
-![Revenue Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/03_Revenue_Dashboard.png.png)
+![Revenue Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/03_Revenue_Dashboard.png)
 
 ### Cancellation Analysis
-![Cancellation Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/04_Cancellation_Dashboard.png.png)
+![Cancellation Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/04_Cancellation_Dashboard.png)
 
 ### Ratings Analysis
-![Ratings Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/05_Customer_Driver_Ratings.png.png)
+![Ratings Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/05_Customer_Driver_Ratings.png)

@@ -9,7 +9,7 @@ A comprehensive Power BI dashboard built to analyze OLA ride booking data using 
 
 The OLA Ride Booking Data Analysis Dashboard is an interactive Business Intelligence solution designed to analyze ride booking operations and customer behavior. It transforms raw ride data into actionable insights, enabling stakeholders to monitor KPIs, identify trends, optimize operational performance, and support data-driven decision-making.
 
-## 🛠️ Tech Stack
+## 3.🛠️ Tech Stack
 
 This project was built using:
 
@@ -29,7 +29,7 @@ This project was built using:
 
 ---
 
-## 📂 Data Source
+## 4.📂 Data Source
 
 **Source:** OLA Ride Booking Dataset
 
@@ -52,7 +52,7 @@ The dataset contains:
 
 The dataset was cleaned, transformed, analyzed, and visualized to extract meaningful business insights.
 
-# 🌟 Features & Highlights
+# 5.🌟 Features & Highlights
 
 ## 📌 Business Problem
 
@@ -155,7 +155,7 @@ The dashboard enables stakeholders to:
 - Measure customer and driver satisfaction.
 - Support operational improvements through data-driven insights.
 
-# 📸 6. Dashboard Preview
+## 6.📸 Dashboard Preview
 
 ### Overall Dashboard
 ![Overall Dashboard](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/01_Overall_Dashboard.png.png)

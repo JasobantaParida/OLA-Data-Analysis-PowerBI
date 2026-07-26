@@ -108,7 +108,7 @@ Supported data-driven decision-making for operational improvements.
 ![Revenue Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/03_Revenue_Dashboard.png.png)
 
 ### Cancellation Analysis
-![Cancellation Analysis](Screenshots/04_Cancellation_Analysis.png)
+![Cancellation Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/04_Cancellation_Dashboard.png.png)
 
 ### Ratings Analysis
-![Ratings Analysis](Screenshots/05_Ratings_Analysis.png)
+![Ratings Analysis]()

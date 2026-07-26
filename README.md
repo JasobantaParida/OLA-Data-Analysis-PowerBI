@@ -111,4 +111,4 @@ Supported data-driven decision-making for operational improvements.
 ![Cancellation Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/04_Cancellation_Dashboard.png.png)
 
 ### Ratings Analysis
-![Ratings Analysis]()
+![Ratings Analysis](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/05_Customer_Driver_Ratings.png.png)

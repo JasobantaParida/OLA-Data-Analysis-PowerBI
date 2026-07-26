@@ -52,61 +52,108 @@ The dataset contains:
 
 The dataset was cleaned, transformed, analyzed, and visualized to extract meaningful business insights.
 
-🌟 5. Features / Highlights
-📌 Business Problem
+# 🌟 Features & Highlights
 
-Ride-hailing companies generate thousands of booking records daily. Without proper analytics, it becomes difficult to monitor booking trends, cancellation rates, revenue performance, customer satisfaction, and operational efficiency.
+## 📌 Business Problem
 
-Business questions include:
+Ride-hailing companies generate thousands of booking records every day. Without a centralized analytics solution, it becomes challenging to monitor booking trends, measure operational performance, identify cancellation patterns, evaluate revenue, and understand customer satisfaction.
 
-Which vehicle types receive the most bookings?
-What is the cancellation rate?
-Which payment methods are preferred?
-Which vehicle category generates the highest revenue?
-How satisfied are customers and drivers?
-What are the major cancellation reasons?
-🎯 Goal of the Dashboard
+This dashboard addresses key business questions such as:
 
-The dashboard helps users:
+- Which vehicle type receives the highest number of bookings?
+- What is the overall cancellation rate?
+- Which payment methods are most frequently used?
+- Which vehicle category generates the highest revenue?
+- How satisfied are customers and drivers?
+- What are the primary reasons for ride cancellations?
 
-Monitor business KPIs in real time.
-Analyze booking trends.
-Track cancellation patterns.
-Evaluate vehicle performance.
-Measure customer and driver satisfaction.
-Support operational and business decision-making.
-📊 Dashboard Pages
-📍 Overall Dashboard
-Total Bookings
-Total Booking Value
-Booking Success Rate
-Cancellation Rate
-Total Ride Distance
-🚗 Vehicle Type Analysis
-Vehicle-wise Bookings
-Average Ride Distance
-Vehicle Performance Comparison
-💰 Revenue Analysis
-Total Revenue
-Revenue by Vehicle Type
-Payment Method Distribution
-❌ Cancellation Analysis
-Customer Cancellations
-Driver Cancellations
-Cancellation Reasons
-Cancellation Rate
-⭐ Ratings Analysis
-Driver Rating Analysis
-Customer Rating Analysis
-Vehicle-wise Ratings
-📈 Business Impact & Insights
-Identified vehicle categories contributing the highest booking volume.
-Measured booking success and cancellation trends.
-Evaluated revenue generation across different vehicle types.
-Analyzed customer payment preferences.
-Assessed customer and driver satisfaction through rating analysis.
-Supported data-driven decision-making for operational improvements.
+---
 
+## 🎯 Goal of the Dashboard
+
+The dashboard is designed to:
+
+- Monitor key business KPIs in real time.
+- Analyze ride booking trends and demand patterns.
+- Track customer and driver cancellations.
+- Evaluate vehicle-wise operational performance.
+- Measure customer and driver satisfaction.
+- Support data-driven business decision-making.
+
+---
+
+## 📊 Dashboard Overview
+
+### 📍 Overall Dashboard
+Displays the overall business performance through key performance indicators.
+
+**KPIs Included**
+- Total Bookings
+- Total Booking Value
+- Successful Bookings
+- Cancellation Rate
+- Total Ride Distance
+
+---
+
+### 🚗 Vehicle Type Analysis
+
+Provides a comparative analysis of different vehicle categories.
+
+**Key Metrics**
+- Vehicle-wise Bookings
+- Average Ride Distance
+- Total Booking Value
+- Vehicle Performance Comparison
+
+---
+
+### 💰 Revenue Analysis
+
+Analyzes revenue generation across different booking categories.
+
+**Key Metrics**
+- Total Revenue
+- Revenue by Vehicle Type
+- Revenue Trend
+- Payment Method Distribution
+
+---
+
+### ❌ Cancellation Analysis
+
+Provides detailed insights into ride cancellations.
+
+**Key Metrics**
+- Customer Cancellations
+- Driver Cancellations
+- Cancellation Reasons
+- Cancellation Rate
+
+---
+
+### ⭐ Ratings Analysis
+
+Evaluates customer and driver experience.
+
+**Key Metrics**
+- Driver Rating Analysis
+- Customer Rating Analysis
+- Vehicle-wise Ratings
+- Rating Distribution
+
+---
+
+## 📈 Business Impact & Insights
+
+The dashboard enables stakeholders to:
+
+- Identify the most popular vehicle categories.
+- Monitor booking success and cancellation trends.
+- Evaluate revenue performance across vehicle types.
+- Understand customer payment preferences.
+- Measure customer and driver satisfaction.
+- Support operational improvements through data-driven insights.
 📸 6. Dashboard Preview
 
 ### Overall Dashboard

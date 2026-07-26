@@ -9,35 +9,46 @@ A comprehensive Power BI dashboard built to analyze OLA ride booking data using 
 
 The OLA Ride Booking Data Analysis Dashboard is an interactive Business Intelligence solution designed to analyze ride booking operations and customer behavior. It transforms raw ride data into actionable insights, enabling stakeholders to monitor KPIs, identify trends, optimize operational performance, and support data-driven decision-making.
 
-🛠️ 3. Tech Stack
+## 🛠️ Tech Stack
 
-This project was built using the following tools and technologies:
+This project was built using:
 
-📊 Power BI Desktop – Dashboard development and interactive visualizations.
-📂 Power Query – Data cleaning, transformation, and preprocessing.
-🧠 DAX (Data Analysis Expressions) – Custom KPIs, calculated measures, and business metrics.
-🐍 Python (Pandas & NumPy) – Data preprocessing and exploratory data analysis.
-🗄️ SQL & MySQL – Data storage, querying, and business analysis.
-📑 Microsoft Excel – Initial data preparation and validation.
-📁 File Formats – .pbix, .sql, .ipynb, .xlsx, and .png.
-📂 4. Data Source
+- 📊 **Power BI Desktop** – Interactive dashboard development.
+- 📂 **Power Query** – Data cleaning and transformation.
+- 🧠 **DAX (Data Analysis Expressions)** – KPI calculations and business metrics.
+- 🐍 **Python (Pandas & NumPy)** – Data preprocessing and analysis.
+- 🗄️ **SQL & MySQL** – Data querying and business analysis.
+- 📑 **Microsoft Excel** – Data preparation and validation.
 
-Source: OLA Ride Booking Dataset
+**File Formats**
+- `.pbix`
+- `.sql`
+- `.ipynb`
+- `.xlsx`
+- `.png`
 
-The dataset contains ride booking records, including:
+---
 
-Booking ID
-Booking Status
-Customer ID
-Vehicle Type
-Pickup & Drop Locations
-Ride Distance
-Booking Value
-Payment Method
-Driver Rating
-Customer Rating
-Cancellation Reasons
-Ride Completion Status
+## 📂 Data Source
+
+**Source:** OLA Ride Booking Dataset
+
+The dataset contains:
+
+- Booking ID
+- Booking Status
+- Customer ID
+- Vehicle Type
+- Pickup Location
+- Drop Location
+- Ride Distance
+- Booking Value
+- Payment Method
+- Driver Rating
+- Customer Rating
+- Cancellation Reasons
+- Ride Completion Status
+
 
 The dataset was cleaned, transformed, analyzed, and visualized to extract meaningful business insights.
 

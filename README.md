@@ -154,7 +154,8 @@ The dashboard enables stakeholders to:
 - Understand customer payment preferences.
 - Measure customer and driver satisfaction.
 - Support operational improvements through data-driven insights.
-📸 6. Dashboard Preview
+
+##📸 6. Dashboard Preview
 
 ### Overall Dashboard
 ![Overall Dashboard](https://github.com/JasobantaParida/OLA-Data-Analysis-PowerBI/blob/main/01_Overall_Dashboard.png.png)
